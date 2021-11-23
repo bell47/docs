@@ -9,7 +9,7 @@ versions:
   ghec: '*'
   ghes: '*'
   ghae: '*'
-children:
+children:=
   - /overview
   - /reference
   - /guides
